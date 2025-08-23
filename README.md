@@ -1,7 +1,6 @@
 <!--
-  GitHub Profile README — Unik, profesional, dan anti-mainstream
-  Style: clean dark, ala Raycast/Spotlight, fokus frontend + learning backend
-  Ganti semua placeholder bertanda ⟪⟫ sesuai kebutuhanmu.
+  GitHub Profile README — Unik, playful, dan anti-mainstream
+  Style: dark aesthetic, dengan icon, badges, mini game easter egg
 -->
 
 <!-- hero -->
@@ -13,7 +12,10 @@
 **Frontend Developer → on a journey to Full‑Stack**
 Building delightful UIs with **Next.js, Tailwind, Framer Motion** — learning **Elysia + Supabase** for the backend side.
 
-<a href="https://sakhandaru.dev">Website</a> • <a href="https://linkedin.com/in/⟪linkedin⟫">LinkedIn</a> • <a href="mailto:⟪email⟫">Email</a> • <a href="https://twitter.com/⟪x_handle⟫">X</a>
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=About.me\&logoColor=white)](https://sakhandaru.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/⟪linkedin⟫)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:⟪email⟫)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/⟪x_handle⟫)
 
 </div>
 
@@ -23,53 +25,43 @@ Building delightful UIs with **Next.js, Tailwind, Framer Motion** — learning *
 
 > Things I’m actively hacking on right now
 
-* **Personal Portfolio (Raycast‑style)** — polishing micro‑interactions, **Framer Motion** orchestrations, and a dock‑like navbar.
-* **IBS (Integrated Booking System) for UMKM** — simulation‑driven thesis project to reduce no‑shows with automated notifications.
-* **Backend studies** — small services with **Elysia** + **Supabase** (auth, RLS, webhooks) to level up full‑stack thinking.
+* 🚀 **Raycast‑style Portfolio** — micro‑interactions, dock navbar, smooth scrolling.
+* 📚 **Thesis IBS (Integrated Booking System)** — simulation + auto notifications for UMKM.
+* ⚙️ **Backend studies** — Elysia + Supabase experiments.
 
 <details>
-<summary><b>What I’m exploring next</b></summary>
+<summary><b>👀 Coming soon</b></summary>
 
 * Edge rendering with Next.js + middleware patterns
-* Server Actions ergonomics vs. TRPC/REST
-* Motion performance: FLIP, `will-change`, GPU compositing
-* Testing UIs that move (Playwright + Storybook interactions)
+* Motion performance hacks (FLIP, `will-change`, GPU compositing)
+* UI Testing that moves (Playwright + Storybook)
 
 </details>
 
 ---
 
-## 🧰 Stack I enjoy
+## 🧰 Tech Stack
 
-**Frontend**
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `shadcn/ui`
+**Frontend** <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framer" />
 
-**Backend (learning)**
-`Elysia` · `Supabase` (Postgres, Auth, RLS, Storage) · `Prisma`
+**Backend (learning)** <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" />
 
-**Tooling**
-`Vite` · `Biome/ESLint` · `Prettier` · `Turborepo` · `pnpm`
+**Tooling** <img src="https://skillicons.dev/icons?i=vite,eslint,prettier,pnpm" />
 
-**Design**
-`Figma` · `Raycast aesthetics` · `Micro‑interaction mindset`
+**Design** <img src="https://skillicons.dev/icons?i=figma" /> 🎨 Raycast aesthetic · micro‑interactions mindset
 
 ---
 
 ## ✨ Signature projects
 
-<!-- Replace the links and descriptions with your real repos -->
-
 **Modernisasi Frontend TVKU**
-Next.js + Tailwind redesign with an interactive chatbot interface.
-`Next.js` · `Tailwind` · `shadcn/ui` · `Framer Motion`
+📺 Next.js + Tailwind redesign with an interactive chatbot.
 
-**Integrated Booking System (IBS) — Thesis**
-Simulation + automated reminders to reduce no‑show rates for UMKM services.
-`Supabase` · `Elysia` · `Notification workers` · `Metrics`
+**IBS — Thesis Project**
+📊 Automated reminders to reduce no‑shows for UMKM services.
 
 **Raycast‑style Portfolio**
-A minimal, snappy portfolio with a dock navbar and smooth scrolling.
-`Next.js` · `Lenis/GSAP` (evaluating) · `Framer Motion`
+💻 Minimal + snappy portfolio with dock navbar.
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/pin/?username=sakhandaru&repo=Portofolio&theme=transparent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sakhandaru&repo=Portofolio&theme=transparent" alt="Pinned repo: Portofolio" /></a>
@@ -77,85 +69,75 @@ A minimal, snappy portfolio with a dock navbar and smooth scrolling.
 
 ---
 
-## 📈 Signal, not noise
+## 📊 GitHub Signal
 
 <div align="center">
 
-<!-- GitHub Stats (consider enabling private contributions in settings for fuller graph) -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=sakhandaru&show_icons=true&theme=transparent" height="150" alt="stats" />
-<img src="https://streak-stats.demolab.com?user=sakhandaru&theme=transparent" height="150" alt="streak" />
-
-<!-- Top Languages (be aware it’s repo‑weighted, not LOC‑weighted) -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhandaru&layout=compact&theme=transparent" height="150" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=sakhandaru&show_icons=true&theme=transparent" height="150" />
+<img src="https://streak-stats.demolab.com?user=sakhandaru&theme=transparent" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhandaru&layout=compact&theme=transparent" height="150" />
 
 </div>
 
-> *I treat metrics as hints, not goals. Shipping useful things > chasing graphs.*
+> Metrics are hints, not goals. Shipping > graphs.
 
 ---
 
-## 🧪 Mini lab
+## 🧪 Mini Lab
 
-> Small, self‑contained experiments that I use to learn new concepts.
-
-* **Motion Playground** — testing orchestration, stagger, and spring tuning.
-* **Lenis vs GSAP smooth scroll** — perf traces + UX notes.
-* **RLS Recipes (Supabase)** — common patterns for row‑level security.
+* 🎮 **Motion Playground** — orchestrations & spring tuning.
+* 🌀 **Lenis vs GSAP smooth scroll** — perf traces + UX notes.
+* 🔐 **RLS Recipes** — row‑level security patterns in Supabase.
 
 <details>
-<summary><b>Open the terminal</b> (fun easter egg)</summary>
+<summary><b>💻 Open the terminal</b> (fun easter egg)</summary>
 
 ```bash
 npx create-next-app@latest my‑idea \
-  --ts --eslint --src-dir --app --import-alias "@/*" && cd my‑idea
-pnpm add tailwindcss framer-motion class-variance-authority @radix-ui/react-slot && \
-  npx tailwindcss init -p
+  --ts --eslint --src-dir --app --import-alias "@/*"
 ```
 
 </details>
 
 ---
 
+## 🎲 Play a Game (for fun)
+
+> A little easter egg so visitors can chill 😎
+
+```html
+<!-- Snake Game inside README (via SVG) -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+```
+
+Or try this fun badge:
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=00F700\&center=true\&vCenter=true\&width=435\&lines=Press+F+to+interact;Try+finding+the+hidden+links;Yes+this+is+a+game+too)
+
+---
+
 ## 🤝 Let’s collaborate
 
-* I’m open to **frontend modernization** projects (design‑to‑code, motion, DX).
-* Happy to pair on **Supabase/Elysia** starter architectures for indie SaaS.
-* Mentoring juniors about **clean UI systems** and **animation sanity**.
+* Open for **frontend modernization** collabs
+* Indie SaaS starter kits (Supabase/Elysia)
+* Mentoring juniors in **UI + motion sanity**
 
-**Reach me:** `rifqi@sakhandaru.dev` · DM on X · or open a GitHub discussion.
+📩 `rifqi@sakhandaru.dev` · DM on X
 
 ---
 
-## 🗒️ Uses
+## ⚡ Uses
 
-* **Editor:** VS Code + custom minimal theme
-* **Terminal:** zsh, Starship
+* **Editor:** VS Code + minimal theme
+* **Terminal:** zsh + Starship
 * **Browser:** Arc/Chrome
 * **Recording:** CleanShot X
-* **Mac shortcuts:** Raycast everything
-
----
-
-## 💡 GPRM & dynamic widgets (optional)
-
-> If you prefer a visual builder, this README plays nicely with **GPRM** (GitHub Profile README Maker).
-> You can swap the stats blocks above with GPRM‑generated sections, or mix‑and‑match.
-
-* Profile views: `![Profile views](https://komarev.com/ghpvc/?username=sakhandaru&label=Views)`
-* Trophies: `https://github-profile-trophy.vercel.app/?username=sakhandaru&theme=flat&no-frame=true`
-* Activity graph: `https://github-readme-activity-graph.vercel.app/graph?username=sakhandaru&theme=github-compact`
-
----
-
-## 📬 Footnotes
-
-* This README is intentionally **human**: fewer badges, more context.
-* Sections are modular — remove any part that doesn’t serve your story.
+* **Launcher:** Raycast ⚡
 
 ---
 
 <p align="center">
-  <sub>Made with care. If something here inspired you, ⭐️ a repo — it helps discoverability.</sub>
+  <sub>Made with ☕ and 🎧. If this made you smile, ⭐️ a repo!</sub>
 </p>
