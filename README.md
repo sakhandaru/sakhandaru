@@ -32,39 +32,29 @@ const sakhandaru = {
 
 </div>
 
-<br>
 <hr>
 <br>
+
 <div align="center">
   
-  <a href="https://sakhandaru.com" target="_blank">
+  <a href="https://www.rifqisakha.my.id/" target="_blank">
     <img src="https://api.iconify.design/ph:globe-bold.svg?color=white" height="24" alt="Website" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:sakhandaru@example.com" target="_blank">
+  <a href="mailto:[rifqiagha7@gmail.com]" target="_blank">
     <img src="https://api.iconify.design/ph:envelope-simple-bold.svg?color=white" height="24" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://linkedin.com/in/Rifqis Sakha" target="_blank">
     <img src="https://api.iconify.design/ph:linkedin-logo-bold.svg?color=white" height="24" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://www.instagram.com/sakhandaru/" target="_blank">
     <img src="https://api.iconify.design/ph:instagram-logo-bold.svg?color=white" height="24" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/" target="_blank">
+  <!-- <a href="https://wa.me/" target="_blank">
     <img src="https://api.iconify.design/ph:whatsapp-logo-bold.svg?color=white" height="24" alt="WhatsApp" />
-  </a>
+  </a> -->
 
-</div>
-
-<div align="center">
-  <i>"Building elegant code, one commit at a time"</i>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakhandaru&style=for-the-badge&color=000000&label=VIEWS" alt="Profile Views" />
 </div>
