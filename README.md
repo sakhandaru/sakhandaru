@@ -11,6 +11,7 @@ const sakhandaru = {
   learning: "Anything",
   skills: ["TypeScript", "Next.js", "PHP", "Laravel"],
   funFact: "I take breaks from my breaks.",
+  quote: "wi wok de tok not onli tok de tok.",
 };
 ```
 
