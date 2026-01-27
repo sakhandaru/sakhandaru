@@ -60,5 +60,5 @@ const sakhandaru = {
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakhandaru&style=for-the-badge&color=000000&label=VIEWS&base=765" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sakhandaru&style=for-the-badge&color=000000&label=Profile Views&base=765" alt="Profile Views" />
 </div>
