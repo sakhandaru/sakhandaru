@@ -49,12 +49,16 @@ const sakhandaru = {
     <img src="https://api.iconify.design/ph:instagram-logo-bold.svg?color=white" height="24" alt="Instagram" />
   </a>
 
-
-
 </div>
   <br>
 <div align="center">
   <a href="https://www.rifqisakha.my.id/" target="_blank" >
     <img src="https://img.shields.io/badge/www.rifqisakha.my.id-000000?style=for-the-badge" alt="Website" />
   </a>
+</div>
+
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakhandaru&style=for-the-badge&color=000000&label=VIEWS&base=765" alt="Profile Views" />
 </div>
