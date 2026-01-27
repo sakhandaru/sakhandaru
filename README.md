@@ -57,8 +57,6 @@ const sakhandaru = {
   </a>
 </div>
 
-
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakhandaru&style=for-the-badge&color=000000&label=PROFILE VIEWS&base=765" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sakhandaru&style=for-the-badge&color=000000&label=PROFILE%20VIEWS&base=765" alt="Profile Views" />
 </div>
