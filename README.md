@@ -33,15 +33,10 @@ const sakhandaru = {
 </div>
 
 <hr>
-<br>
 
 <div align="center">
   
-  <a href="https://www.rifqisakha.my.id/" target="_blank">
-    <img src="https://api.iconify.design/ph:globe-bold.svg?color=white" height="24" alt="Website" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:[rifqiagha7@gmail.com]" target="_blank">
+  <a href="mailto:rifqiagha7@gmail.com" target="_blank">
     <img src="https://api.iconify.design/ph:envelope-simple-bold.svg?color=white" height="24" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -52,9 +47,9 @@ const sakhandaru = {
   <a href="https://www.instagram.com/sakhandaru/" target="_blank">
     <img src="https://api.iconify.design/ph:instagram-logo-bold.svg?color=white" height="24" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- <a href="https://wa.me/" target="_blank">
-    <img src="https://api.iconify.design/ph:whatsapp-logo-bold.svg?color=white" height="24" alt="WhatsApp" />
-  </a> -->
+
+  <a href="https://www.rifqisakha.my.id/" target="_blank">
+    <img src="https://img.shields.io/badge/www.rifqisakha.my.id-000000?style=for-the-badge" alt="Website" />
+  </a>
 
 </div>
