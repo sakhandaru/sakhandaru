@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/githubbanner.png" width="100%" alt="Banner" />
+<img src="assets/image.jpeg" width="100%" alt="Banner" />
 
 </div>
 
@@ -9,47 +9,62 @@ const sakhandaru = {
   role: "Full Stack Developer",
   workingOn: "Full Stack Projects",
   learning: "Systems Design",
-  skills: ["JS", "Python", "Go", "React"],
+  skills: ["TypeScript", "Next.js", "PHP", "Laravel"],
   funFact: "I code faster than I type!",
 };
 ```
 
 <div align="center">
-  
-  <!-- Social Media -->
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:sakhandaru@example.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 
-  <br>
-
-  <!-- Technologies -->
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <!-- T3 Stack & Frontend -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/tRPC-000000?style=for-the-badge&logo=trpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 </div>
 
 <br>
 <hr>
+<br>
+<div align="center">
+  
+  <a href="https://sakhandaru.com" target="_blank">
+    <img src="https://api.iconify.design/ph:globe-bold.svg?color=white" height="24" alt="Website" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sakhandaru@example.com" target="_blank">
+    <img src="https://api.iconify.design/ph:envelope-simple-bold.svg?color=white" height="24" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://api.iconify.design/ph:linkedin-logo-bold.svg?color=white" height="24" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://api.iconify.design/ph:instagram-logo-bold.svg?color=white" height="24" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/" target="_blank">
+    <img src="https://api.iconify.design/ph:whatsapp-logo-bold.svg?color=white" height="24" alt="WhatsApp" />
+  </a>
+
+</div>
 
 <div align="center">
   <i>"Building elegant code, one commit at a time"</i>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakhandaru&style=for-the-badge&color=000000&label=VIEWS" alt="Profile Views" />
 </div>
