@@ -13,6 +13,14 @@ const sakhandaru = {
   funFact: "I take breaks from my breaks.",
   quote: "wi wok de tok not onli tok de tok.",
 };
+
+const principles = [
+  "Frontend-first",
+  "Backend-aware",
+  "SaaS-minded",
+  "Ships quietly",
+];
+
 ```
 
 <div align="center">
