@@ -1,12 +1,10 @@
 <div align="center">
 
-![Banner](assets/githubbanner.png)
+<img src="assets/githubbanner.png" width="100%" alt="Banner" />
 
 </div>
 
-
-
-```javascript
+```text
 const sakhandaru = {
   role: "Full Stack Developer",
   workingOn: "Full Stack Projects",
@@ -15,7 +13,6 @@ const sakhandaru = {
   funFact: "I code faster than I type!",
 };
 ```
-
 
 <div align="center">
   
