@@ -8,9 +8,9 @@
 const sakhandaru = {
   role: "Full Stack Developer",
   workingOn: "Full Stack Projects",
-  learning: "Systems Design",
+  learning: "Anything",
   skills: ["TypeScript", "Next.js", "PHP", "Laravel"],
-  funFact: "I code faster than I type!",
+  funFact: "I take breaks from my breaks.",
 };
 ```
 
