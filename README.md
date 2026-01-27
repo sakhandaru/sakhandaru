@@ -1,12 +1,10 @@
 <div align="center">
 
-![Banner](assets/image.jpeg)
+![Banner](assets/githubbanner.png)
 
 </div>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="55%" valign="center">
+
 
 ```javascript
 const sakhandaru = {
@@ -18,13 +16,6 @@ const sakhandaru = {
 };
 ```
 
-    </td>
-    <td width="45%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-410c-ae5c-557ec6042db5.gif" width="220px" alt="Astronaut" />
-    </td>
-
-  </tr>
-</table>
 
 <div align="center">
   
