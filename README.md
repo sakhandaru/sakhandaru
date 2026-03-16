@@ -18,7 +18,7 @@ const principles = [
   "Designing for the user",
   "Engineering for the web",
   "Architecting for scale",
-  "Delivering business value"
+  "Delivering business value",
 ];
 ```
 
