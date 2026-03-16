@@ -15,12 +15,11 @@ const sakhandaru = {
 };
 
 const principles = [
-  "Frontend-first",
-  "Backend-aware",
-  "SaaS-minded",
-  "Ships quietly",
+  "Designing for the user",
+  "Engineering for the web",
+  "Architecting for scale",
+  "Delivering business value"
 ];
-
 ```
 
 <div align="center">
