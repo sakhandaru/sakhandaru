@@ -4,7 +4,15 @@
 
 </div>
 
-```text
+
+### Versi Super Clean Monochrome (Paling Rapi)
+
+```markdown
+<div align="center">
+
+**Sakhandaru** — Full Stack Developer
+
+```ts
 const sakhandaru = {
   role: "Full Stack Developer",
   workingOn: "Full Stack Projects",
@@ -20,7 +28,6 @@ const principles = [
   "Architecting for scale",
   "Delivering business value",
 ];
-```
 
 <div align="center">
 
