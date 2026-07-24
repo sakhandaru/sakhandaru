@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/githubbanner.png" width="100%" alt="Banner" />
+<img src="assets/ghbanner.jpg" width="100%" alt="Banner" />
 
 </div>
 
