@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/ghbanner.jpg" width="100%" alt="Banner" />
+<img src="ghbanner.jpg" width="100%" alt="Banner" />
 
 </div>
 
